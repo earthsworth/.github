@@ -12,6 +12,18 @@ Checkout our projects!
 
 ## What We Do
 
+```
+ _____           _   _                            _   _     
+| ____|__ _ _ __| |_| |__  _____      _____  _ __| |_| |__  
+|  _| / _` | '__| __| '_ \/ __\ \ /\ / / _ \| '__| __| '_ \ 
+| |__| (_| | |  | |_| | | \__ \\ V  V / (_) | |  | |_| | | |
+|_____\__,_|_|___\__|_| |_|___/ \_/\_/ \___/|_|   \__|_| |_|
+| |   | |   / ___|                                          
+| |   | |  | |                                              
+| |___| |__| |___                                           
+|_____|_____\____|                                          
+```
+
 Browsers. Yes, we modify browsers.
 
 The Celestial project is our latest research on browsers.
@@ -24,7 +36,7 @@ console.log("Make Browsers Great Again.");
 
 Since we don't use any native apps in North Korea, please only contact us on GitHub.
 
-Here is a [random link](https://discord.lunarclient.top) probably is what you are looking for.
+This [random link](https://discord.lunarclient.top) is probably what you are looking for.
 
 ## Projects
 
@@ -64,4 +76,4 @@ The FOSS bridges to let you design your browser's startup page
 
 The open source implementation for your browser's rpc, api and some 3rd party services
 
-[earthsworth/lunar-api](https://codeberg.org/earthsworth/lunar-api)
+[codeberg.org/earthsworth/lunar-api](https://codeberg.org/earthsworth/lunar-api)
