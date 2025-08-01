@@ -20,13 +20,25 @@ The Celestial project is our latest research on browsers.
 console.log("Make Browsers Great Again.");
 ```
 
+## How to Contact us
+
+Since we don't use any native apps in North Korea, please only contact us on GitHub.
+
+Here is a [random link](https://discord.lunarclient.top) probably is what you are looking for.
+
 ## Projects
 
 ### Celestial
 
 A 3rd party **browser** launcher that build in Kotlin/JVM
 
-[earthsworth/celestial](https://codeberg.org/earthsworth/celestial)
+[codeberg.org/earthsworth/celestial](https://codeberg.org/earthsworth/celestial)
+
+Mirror: [https://github.com/earthsworth/celestial-launcher](https://github.com/earthsworth/celestial-launcher)
+
+We're sorry about that, the browser companies has taken down the old repository. They don't want their product great anymore.
+
+But we love browsers, we work on browsers, that cannot effect us.
 
 ### Celestial Bootstrap
 
