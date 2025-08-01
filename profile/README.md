@@ -18,7 +18,7 @@ A 3rd party **browser** launcher that build in Kotlin/JVM
 
 A bootstrapper for the Celestial Launcher
 
-Next-gen: [earthsworth/celestial-bootstrap-next](https://github.com/earthsworth/celestial-bootstrap-next)]
+Next-gen: [earthsworth/celestial-bootstrap-next](https://github.com/earthsworth/celestial-bootstrap-next)
 
 [earthsworth/celestial-bootstrap](https://github.com/earthsworth/celestial-bootstrap)
 
