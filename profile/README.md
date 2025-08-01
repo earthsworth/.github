@@ -4,6 +4,8 @@ Not affiliated with Moonsworth or Solar-Tweaks.
 
 We're a small development team from North Korea.
 
+We modify browsers.
+
 - Telegram: https://t.me/earthsworth
 
 Checkout our projects!
