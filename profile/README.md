@@ -12,6 +12,9 @@ Checkout our projects!
 
 ## What We Do
 
+<img width="150" height="53" alt="image" src="https://github.com/user-attachments/assets/9bd72909-7c37-48b4-afb2-9c1067a60180" />
+
+
 ```
  _____           _   _                            _   _                            
 | ____|__ _ _ __| |_| |__  _____      _____  _ __| |_| |__
