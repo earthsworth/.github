@@ -36,10 +36,6 @@ We believe that creativity belongs to the users, not a company that only wants t
 
 FOSS & ❤️️
 
-### Still looking for source code?
-
-This is what you want: https://codeberg.org/earthsworth
-
 ## What We Do
 
 ```
