@@ -10,6 +10,12 @@ We're a small development team from North Korea.
 
 Checkout our projects!
 
+## What happened
+
+The browser company has taken down our repositories :(
+
+R.I.P 2025/9/18
+
 ## What We Do
 
 ```
