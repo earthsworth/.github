@@ -26,6 +26,16 @@ The browser company has taken down our repositories :(
 -----------------
 ```
 
+<img width="1080" height="595" alt="image" src="https://github.com/user-attachments/assets/348b9e2e-cb83-4be6-85fc-9a73af22e172" />
+
+## The story won't end here!
+
+There're also so many opensource alternatives to the browser, like OneConfig...
+
+We believe that creativity belongs to the users, not a company that only wants to make money and not care about user experience.
+
+FOSS & ❤️️
+
 ## What We Do
 
 ```
