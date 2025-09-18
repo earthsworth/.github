@@ -14,7 +14,17 @@ Checkout our projects!
 
 The browser company has taken down our repositories :(
 
-R.I.P 2025/9/18
+```
+  _____________
+ /             \
+ | Earthsworth |
+ |             |
+ |             |
+ |    R.I.P    |
+ |  2025/9/18  |
+ |-------------|
+-----------------
+```
 
 ## What We Do
 
