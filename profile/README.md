@@ -38,7 +38,7 @@ FOSS & ❤️️
 
 ### Still looking for source code?
 
-This is what you want: https://github.com/earthsworth/
+This is what you want: https://codeberg.org/earthsworth
 
 ## What We Do
 
